@@ -1,0 +1,9 @@
+ /E/Kaifa/github/id_rsa/.ssh/id_isa
+ ssh-keygen -t rsa -C "wjhasd2006@163.com"
+ ssh -T git@github.com
+git config --global user.name "wjhasd2006"
+git config --global user.email "wjhasd2006@163.com"
+
+cd /E/githubRepositories
+
+git clone https://github.com/wjhasd2006/eifretest
